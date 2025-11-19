@@ -50,17 +50,18 @@ Procedure for Load test:
 Tabulation,model graph
 Calculation,characteristics  for Open Circuit Test and Load Test:
 
-![WhatsApp Image 2025-10-01 at 10 54 05_d35e9279](https://github.com/user-attachments/assets/866a2fa0-9f99-4e19-97aa-ece2ab534e35)
+![WhatsApp Image 2025-11-19 at 20 40 45_813b37bf](https://github.com/user-attachments/assets/cd7a9e49-c8e2-4bcb-9cad-9a8134ec15de)
 
-![WhatsApp Image 2025-10-01 at 10 54 06_9c4d5be3](https://github.com/user-attachments/assets/b0fe1ca4-c920-41b4-b839-38711eb668bd)
+![WhatsApp Image 2025-11-19 at 20 40 45_fae67d9d](https://github.com/user-attachments/assets/3dd730d3-699b-43ab-be2d-2d44d9122f70)
 
-![WhatsApp Image 2025-10-01 at 10 54 06_7342f4ec](https://github.com/user-attachments/assets/42096fb4-d891-442d-9d80-4ff7620e0a3a)
+![WhatsApp Image 2025-11-19 at 20 40 45_31a73d36](https://github.com/user-attachments/assets/645f4206-7fb4-4ea8-b193-a7c069ff943a)
 
-![WhatsApp Image 2025-10-01 at 10 54 06_df37ecf6](https://github.com/user-attachments/assets/a79a2a29-3cf6-4076-b15d-3ec97f9ba936)
+![WhatsApp Image 2025-11-19 at 20 40 46_a0f43237](https://github.com/user-attachments/assets/1fcc418c-aa05-4993-8b82-b9ce1d960736)
 
-![WhatsApp Image 2025-10-01 at 10 54 07_3a13677d](https://github.com/user-attachments/assets/6dffbc9e-e8aa-49b5-bd71-ac6019382ebb)
+![WhatsApp Image 2025-11-19 at 20 40 46_0f492c1e](https://github.com/user-attachments/assets/dc1b5ada-cb2b-40cd-9668-97a251749bb3)
 
-![WhatsApp Image 2025-10-01 at 10 54 07_9e903761](https://github.com/user-attachments/assets/5fa29796-a5b0-4027-b493-75784043c1e9)
+![WhatsApp Image 2025-11-19 at 20 40 46_5a6d4fff](https://github.com/user-attachments/assets/f9841151-7e50-4049-b7b9-5d3dfae57623)
+
 
 ![WhatsApp Image 2025-10-01 at 10 54 07_f616bb58](https://github.com/user-attachments/assets/ee2745a2-87d6-4c08-a935-388dda53faa4)
 
