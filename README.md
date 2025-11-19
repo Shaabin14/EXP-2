@@ -62,8 +62,7 @@ Calculation,characteristics  for Open Circuit Test and Load Test:
 
 ![WhatsApp Image 2025-11-19 at 20 40 46_5a6d4fff](https://github.com/user-attachments/assets/f9841151-7e50-4049-b7b9-5d3dfae57623)
 
-
-![WhatsApp Image 2025-10-01 at 10 54 07_f616bb58](https://github.com/user-attachments/assets/ee2745a2-87d6-4c08-a935-388dda53faa4)
+![WhatsApp Image 2025-10-01 at 10 54 02_25aa694d](https://github.com/user-attachments/assets/4ef783fb-c8e8-4a90-aa6c-d3cce9525624)
 
 ![WhatsApp Image 2025-10-01 at 10 54 08_9a349f64](https://github.com/user-attachments/assets/c119fd30-f688-4520-b157-7b66096e2f0a)
 
